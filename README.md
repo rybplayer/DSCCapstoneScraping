@@ -5,6 +5,8 @@ Scraper script and .csv for UCSD DSC Capstone Offerings for Fall 2025.
 > The definitive list of capstone offerings is available at [https://dsc-capstone.org/](https://dsc-capstone.org/).
 > Furthermore, the capstone list is currently a living document and changes all the time!
 
+> This was last updated Monday, June 2, 2025.
+
 This repository contains a short scraping script for UCSD's DSC Capstone Fall 2025.
 This data is publicly available at [https://dsc-capstone.org/](https://dsc-capstone.org/).
 
